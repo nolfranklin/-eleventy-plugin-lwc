@@ -1,0 +1,32 @@
+{
+	"name": "@nolfranklin/eleventy-plugin-lwc",
+	"version": "0.1.0",
+	"description": "Use LWC components in Eleventy.",
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nolfranklin/eleventy-plugin-lwc.git"
+	},
+	"keywords": [
+		"eleventy",
+		"eleventy-plugin"
+	],
+	"author": {
+		"name": "Nol Franklin",
+		"email": "hello@nolfranklin.ca",
+		"url": "https://nolfranklin.ca/"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nolfranklin/eleventy-plugin-lwc/issues"
+	},
+	"homepage": "https://github.com/nolfranklin/eleventy-plugin-lwc",
+	"peerDependencies": {
+		"@11ty/eleventy": ">=0.11.0"
+	},
+	"dependencies": {
+		"@11ty/eleventy-assets": "1.0.4"
+	}
+}
